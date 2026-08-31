@@ -1,0 +1,52 @@
+product_id,product_name,category,brand,price,cost,stock,profit_per_unit
+P001,Dell Inspiron 15,Computers,Dell,749,580,86,169
+P002,HP Pavilion 15,Computers,HP,699,540,19,159
+P003,Lenovo IdeaPad 5,Computers,Lenovo,649,500,8,149
+P004,ASUS VivoBook 15,Computers,ASUS,679,520,99,159
+P005,Apple MacBook Air,Computers,Apple,1199,900,40,299
+P006,Acer Aspire 5,Computers,Acer,599,450,36,149
+P007,Lenovo ThinkPad E14,Computers,Lenovo,899,690,33,209
+P008,Apple iPad 10,Tablets,Apple,449,340,22,109
+P009,Samsung Galaxy Tab S9,Tablets,Samsung,799,610,99,189
+P010,Lenovo Tab P12,Tablets,Lenovo,399,300,18,99
+P011,Xiaomi Pad 6,Tablets,Xiaomi,349,260,91,89
+P012,Apple iPad Air,Tablets,Apple,699,530,99,169
+P013,Nintendo Switch OLED,Nintendo Switch,Nintendo,349,270,74,79
+P014,Nintendo Switch,Nintendo Switch,Nintendo,299,230,16,69
+P015,Nintendo Switch Lite,Nintendo Switch,Nintendo,219,170,80,49
+P016,Nintendo Switch 2,Nintendo Switch,Nintendo,449,350,59,99
+P017,Samsung 27-inch Monitor,Monitors,Samsung,249,180,9,69
+P018,LG UltraGear 27,Monitors,LG,329,240,8,89
+P019,Dell 24-inch Monitor,Monitors,Dell,189,140,16,49
+P020,ASUS TUF Gaming Monitor,Monitors,ASUS,379,280,32,99
+P021,AOC 27-inch Gaming Monitor,Monitors,AOC,299,220,34,79
+P022,Samsung Odyssey G7,Monitors,Samsung,649,490,69,159
+P023,iPhone 15,Smartphones,Apple,799,610,82,189
+P024,iPhone 15 Pro,Smartphones,Apple,1199,920,8,279
+P025,iPhone 16,Smartphones,Apple,899,690,76,209
+P026,Samsung Galaxy S24,Smartphones,Samsung,899,680,30,219
+P027,Samsung Galaxy S24 Ultra,Smartphones,Samsung,1299,990,96,309
+P028,Google Pixel 9,Smartphones,Google,799,600,88,199
+P029,Xiaomi 14,Smartphones,Xiaomi,699,520,94,179
+P030,PlayStation 5 Slim,PlayStation,Sony,549,420,74,129
+P031,PlayStation 5 Digital,PlayStation,Sony,449,345,58,104
+P032,PlayStation 5 Pro,PlayStation,Sony,799,620,33,179
+P033,Xbox Series X,Xbox,Microsoft,549,420,62,129
+P034,Xbox Series S,Xbox,Microsoft,299,225,80,74
+P035,Xbox Series X 2TB,Xbox,Microsoft,649,500,40,149
+P036,Apple Magic Mouse,Accessories,Apple,89,55,5,34
+P037,Logitech MX Master 3S,Accessories,Logitech,109,70,25,39
+P038,Logitech K380 Keyboard,Accessories,Logitech,49,30,94,19
+P039,Samsung Wireless Charger,Accessories,Samsung,39,22,59,17
+P040,Apple USB-C Cable,Accessories,Apple,25,12,48,13
+P041,Sony DualSense Controller,Accessories,Sony,74,48,40,26
+P042,Xbox Wireless Controller,Accessories,Microsoft,69,45,24,24
+P043,Nintendo Switch Pro Controller,Accessories,Nintendo,79,50,32,29
+P044,Gaming Headset,Accessories,Logitech,99,60,48,39
+P045,HDMI Cable,Accessories,Generic,19,8,18,11
+P046,External SSD 1TB,Accessories,Samsung,99,65,16,34
+P047,Power Bank 20000mAh,Accessories,Anker,49,30,53,19
+P048,USB-C Hub,Accessories,Anker,59,35,17,24
+P049,Webcam 1080p,Accessories,Logitech,69,42,50,27
+P050,Mechanical Gaming Keyboard,Accessories,Logitech,129,80,49,49
+P051,Gaming Mouse,Accessories,Logitech,59,35,82,24
