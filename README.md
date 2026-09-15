@@ -12,28 +12,28 @@ The goal of this project is to simulate a real-world business analysis task wher
 
 The analysis covers:
 
-- Revenue
-- Profit
-- Profit margins
-- Product performance
-- Category performance
-- Customer behavior
-- City performance
-- Regional performance
-- Monthly sales trends
+* Revenue
+* Profit
+* Profit margins
+* Product performance
+* Category performance
+* Customer behavior
+* City performance
+* Regional performance
+* Monthly sales trends
 
 ---
 
 ## 🛠️ Technologies
 
-- Python
-- Pandas
-- Matplotlib
-- SQL
-- SQLite
-- Git
-- GitHub
-- VS Code
+* Python
+* Pandas
+* Matplotlib
+* SQL
+* SQLite
+* Git
+* GitHub
+* VS Code
 
 ---
 
@@ -49,14 +49,14 @@ The project contains three main datasets.
 
 51 consumer electronics products across:
 
-- Computers
-- Tablets
-- Smartphones
-- Monitors
-- Nintendo Switch
-- PlayStation
-- Xbox
-- Accessories
+* Computers
+* Tablets
+* Smartphones
+* Monitors
+* Nintendo Switch
+* PlayStation
+* Xbox
+* Accessories
 
 ### Sales
 
@@ -66,16 +66,16 @@ The project contains three main datasets.
 
 ## 📈 Key Business KPIs
 
-| KPI | Result |
-|---|---:|
-| Total Orders | 2,000 |
-| Total Items Sold | 6,071 |
-| Total Revenue | €2,705,320 |
-| Total Cost | €2,041,047 |
-| Total Profit | €664,273 |
-| Profit Margin | 24.55% |
-| Customers | 500 |
-| Products | 51 |
+| KPI              |     Result |
+| ---------------- | ---------: |
+| Total Orders     |      2,000 |
+| Total Items Sold |      6,071 |
+| Total Revenue    | €2,705,320 |
+| Total Cost       | €2,041,047 |
+| Total Profit     |   €664,273 |
+| Profit Margin    |     24.55% |
+| Customers        |        500 |
+| Products         |         51 |
 
 ---
 
@@ -119,10 +119,10 @@ The project includes a business dashboard created with Python and Matplotlib.
 
 The dashboard contains:
 
-- Monthly revenue
-- Revenue by category
-- Revenue by region
-- Top 10 products
+* Monthly revenue
+* Revenue by category
+* Revenue by region
+* Top 10 products
 
 ![Nexora Dashboard](nexora_dashboard.png)
 
@@ -150,10 +150,12 @@ Data Visualization
 Business Insights
        ↓
 Management Recommendations
+```
 
 ---
 
-Author
+##  Author
 
-Hussein Monem
+**Hussein Monem**
 
+Computer Science student focused on **Business Analysis, Business IT, data analytics, process improvement, and data-driven decision support**.
