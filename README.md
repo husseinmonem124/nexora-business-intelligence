@@ -158,4 +158,3 @@ Management Recommendations
 
 **Hussein Monem**
 
-Computer Science student focused on **Business Analysis, Business IT, data analytics, process improvement, and data-driven decision support**.
